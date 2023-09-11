@@ -4,7 +4,7 @@
 ## Table of contents
 ## Introduction
 
-### [Context of the project](https://github.com/aherpinfr/analyzingenergymarket/edit/main/README.md#introduction)
+### [Context of the project](https://github.com/aherpinfr/analyzingenergymarket/edit/main/README.md)
 
 ### Context of the project
 This analysis aims to get an insight into the energy market at a global scale. 
