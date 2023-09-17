@@ -32,6 +32,6 @@ The building of the chart is going to be made further with Power BI.
 Several companies - like Engie - are in a fuzzy zone because they are investing in both renewables and fossils. For those companies, I asked Chatgpt in which category the bot would put the company and applied the recommendation.
 
 ## [Database Analysis](DatabaseAnalysis.md)
-## [Link](Data Visualisation and Analysis.md)
+## [Daraviz & Analysis](DataVisualisationandAnalysis.md)
 
 
