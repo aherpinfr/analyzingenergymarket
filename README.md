@@ -17,12 +17,12 @@ The second goal of the project is to create a Dashboard with a chart:
 ### Sample size 
 In total, I collected information on 105 companies that I categorized into one of the 6 following categories
 
-Installer
-Investor
-Manufacturer
-Renewables
-Support
-Traditional
+* Installer
+* Investor
+* Manufacturer
+* Renewables
+* Support
+* Traditional
 
 ### Tools 
 Data have been stored in a SQL Server database in a table named "COMPANIES".
