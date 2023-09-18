@@ -33,5 +33,13 @@ Several companies - like Engie - are in a fuzzy zone because they are investing 
 
 ## [Database Analysis](DatabaseAnalysis.md)
 ## [Daraviz & Analysis](DataVisualisationandAnalysis.md)
+### Summary
+* 2% of the companies are extraordinary, 10% uncommon and the rest 88% are common companies.
+  * Non-traditional companies are common companies in the global energy market
+  * They all generate less the 200 billion € and have less than 100k employees
+* There is a lot of potential for renewables
+  * The average company in Renewables makes around 12 billion €.
+  * This is as much as McKinsey and almost as Decathlon in 2022.
+
 
 
