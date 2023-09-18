@@ -42,8 +42,14 @@ Several companies - like Engie - are in a fuzzy zone because they are investing 
   * Non-traditional companies are common companies in the global energy market
   * They all generate less the 200 billion € and have less than 100k employees
 * There is a lot of potential for renewables
-  * The average company in Renewables makes around 12 billion €, while a traditional company makes on average 120 billion €.
+  * The average company in Renewables makes around 12 billion €.
   * This is as much as McKinsey and almost as Decathlon in 2022.
+  * A traditional company makes on average 120 billion €.
+
+### Conclusion
+Traditional companies are huge compared to renewables.
+Still, renewables are still making a lot and as much as leading companies in other markets like retail and consulting services.
+  
 
 
 
